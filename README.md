@@ -23,8 +23,8 @@
 
 ### PART 3：ChatGPT 在不同領域的應用案例
 
-[Ch8. 靠問 ChatGPT 寫程式，能完成 OpenAI & Linebot 的 Side Project 嗎？（上）](Ch08)  
-[Ch9. 靠問 ChatGPT 寫程式，能完成 OpenAI & Linebot 的 Side Project 嗎？（下）](Ch09)  
+[Ch8. 靠問 ChatGPT 寫程式，能完成 OpenAI & LINE Bot 的 Side Project 嗎？（上）](Ch08)  
+[Ch9. 靠問 ChatGPT 寫程式，能完成 OpenAI & LINE Bot 的 Side Project 嗎？（下）](Ch09)  
 [Ch10. 工程師福音！讓 ChatGPT 幫忙做 Code Review、Refactoring、Comments](Ch10)  
 [Ch11. 太兇殘了！竟然靠聊天就能產出 PRD，PM 還不趕快學起來！](Ch11)  
 

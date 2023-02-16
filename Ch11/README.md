@@ -27,4 +27,4 @@
 [PRD 的草稿](PRD.md)
 
 ### 參考資料
-1.	[Mardown 版本的 PRD](https://github.com/dean9703111/chatGPT/blob/master/Ch11/PRD.md)
+1.	[Markdown 版本的 PRD](https://github.com/dean9703111/chatGPT/blob/master/Ch11/PRD.md)

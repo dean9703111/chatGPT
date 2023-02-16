@@ -52,7 +52,7 @@ function handleEvent(event) {
 }
 
 app.listen(3000);
-console.log("Linebot is running on 3000 port");
+console.log("LINE Bot is running on 3000 port");
 ```
 
 ### 10.2	讓 ChatGPT 用中文解釋程式（Review and explain）
@@ -119,7 +119,7 @@ const handleEvent = async (event) => {
 };
 
 app.listen(3000);
-console.log("Linebot is running on 3000 port");
+console.log("LINE Bot is running on 3000 port");
 ```
 
 把 line 設定 config 的部分調整回來
@@ -195,7 +195,7 @@ const handleEvent = async (event) => {
 
 // Start listening on port 3000 
 app.listen(3000);
-console.log('Linebot is running on 3000 port');
+console.log('LINE Bot is running on 3000 port');
 ```
 
 移除所有註解：`remove code comments`

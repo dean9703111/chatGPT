@@ -1,4 +1,4 @@
-# Ch8	靠問 ChatGPT 寫程式，能完成 OpenAI & Linebot 的 Side Project 嗎？（上）
+# Ch8	靠問 ChatGPT 寫程式，能完成 OpenAI & LINE Bot 的 Side Project 嗎？（上）
 
 ### 8.1	詢問 ChatGPT 實作的步驟
 
@@ -15,7 +15,7 @@
 **SETP 1**：登入開發者平台（原則上有LINE的帳號就可以直接登入），網址：https://developers.line.biz/zh-hant
 
 
-### 8.4	建立 OpenAI-Linebot 的 Node.js 專案
+### 8.4	建立 OpenAI-LINE Bot 的 Node.js 專案
 
 > 如果讀者的環境尚未安裝 Node.js 與 npm，接下來的操作會卡住。
 > 筆者過去有寫一篇基礎環境設定的文章：「[工程師的開發環境大補帖：Node.js、NVM、git、yarn、VSCode](https://medium.com/dean-lin/3f21ea161898」，大家可以參考看看。
@@ -32,7 +32,7 @@ npm install openai @line/bot-sdk express
 ```
 **SETP 5**：輸入 `touch index.js` 建立一個新的檔案放程式碼。  
 
-**SETP 6**：在 index.js 中引用所需的套件，並設定 OpenAI 的 API key、Linebot 的 channelAccessToken、channelSecret。  
+**SETP 6**：在 index.js 中引用所需的套件，並設定 OpenAI 的 API key、LINE Bot 的 channelAccessToken、channelSecret。  
 ```js
 const openai = require('openai');
 const line = require('@line/bot-sdk');

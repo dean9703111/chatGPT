@@ -53,4 +53,4 @@ const handleEvent = async (event) => {
 
 // Start listening on port 3000 
 app.listen(3000);
-console.log('Linebot is running on 3000 port');
+console.log('LINE Bot is running on 3000 port');

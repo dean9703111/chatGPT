@@ -1,4 +1,4 @@
-# Ch9	靠問 ChatGPT 寫程式，能完成 OpenAI & Linebot 的 Side Project 嗎？（下）
+# Ch9	靠問 ChatGPT 寫程式，能完成 OpenAI & LINE Bot 的 Side Project 嗎？（下）
 
 ### 9.1	在 local 建立一個可以讓 Line 訪問的 HTTP server（ngrok）
 
@@ -61,7 +61,7 @@ function handleEvent (event) {
 }
 
 app.listen(3000);
-console.log('Linebot is running on 3000 port');
+console.log('LINE Bot is running on 3000 port');
 ```
 
 ### 9.4	ChatGPT並不是萬能，Bug還得靠自己處理
@@ -136,7 +136,7 @@ function handleEvent (event) {
 }
 
 app.listen(3000);
-console.log('Linebot is running on 3000 port');
+console.log('LINE Bot is running on 3000 port');
 ```
 
 ### 參考資料：
