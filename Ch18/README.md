@@ -44,7 +44,7 @@ Midjourney 的 Community Showcase：https://midjourney.com/showcase/recent/
 
 ### 18.7 不會英文，不懂藝術，是不是就無法操作了？
 
-`ruins, baroque architecture, Long Shot(LS) , Architectural rendering , bright`
+`ruins, Baroque architecture, Long Shot(LS) , Architectural rendering , bright`
 
 ### 18.8 透過介面（UI）來產生 Prompt
 
