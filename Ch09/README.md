@@ -123,10 +123,10 @@ function handleEvent (event) {
 
   return openai.createCompletion({ // 方法用錯修正
     prompt: event.message.text,
-    model: "text-davinci-003", // 使用 model 而非 engine
+    model: "text-davinci-003", // 應用 model 而非 engine
     max_tokens: 1000 // 應用 max_tokens 而非 maxTokens
   }).then((completions) => {
-    // 少了 data 這層結構，並要加上 trim() 去除空白
+    // 原案少了 data 這層結構，並要加上 trim() 去除空白
     const message = completions.data.choices[0].text.trim();
     return client.replyMessage(event.replyToken, {
       type: 'text',
