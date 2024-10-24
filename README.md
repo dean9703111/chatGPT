@@ -1,4 +1,4 @@
-# ChatGPT 與 AI 繪圖效率大師（[此書已有新版](https://www.tenlong.com.tw/products/9786263334885)）
+# ChatGPT 與 AI 繪圖效率大師（[此書已有新版](https://www.tenlong.com.tw/products/9786263339989)）
 
 ## 從日常到職場的全方位應用總整理，48 小時迎接減壓新生活！
 
